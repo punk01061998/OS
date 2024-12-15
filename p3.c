@@ -41,9 +41,7 @@ void main()
             case 3:
                 printf("\nExiting...");
                 break;
-
-            default:
-                printf("\nInvalid choice. Please try again.");
+                
         }
     }
 }
